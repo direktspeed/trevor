@@ -16,7 +16,7 @@
   "dependencies": {
     "bluebird": "^3.0.6",
     "chalk": "^1.1.1",
-    "figures": "^1.4.0",
+    "figures": "^2.0.0",
     "log-update": "^1.0.1",
     "meow": "^3.4.2",
     "mz": "^2.0.0",
@@ -49,7 +49,7 @@
     "coveralls-send": "0.0.2",
     "istanbul": "^0.4.2",
     "jshint": "^2.8.0",
-    "mocha": "^2.2.5",
+    "mocha": "^3.1.2",
     "mocha-lcov-reporter": "^1.2.0"
   }
 }

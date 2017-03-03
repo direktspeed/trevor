@@ -14,7 +14,7 @@
     "trevor": "./bin/trevor"
   },
   "dependencies": {
-    "bluebird": "^3.0.6",
+    "bluebird": "^3.5.0",
     "chalk": "^1.1.1",
     "figures": "^2.0.0",
     "log-update": "^1.0.1",

@@ -22,7 +22,7 @@
     "mz": "^2.0.0",
     "stable-node-version": "^1.0.0",
     "text-table": "^0.2.0",
-    "yamljs": "^0.2.4"
+    "yamljs": "^0.3.0"
   },
   "scripts": {
     "test": "exit 0",
